@@ -16,7 +16,7 @@ Where we analyze how prices affect product sales and how they are affected by pr
 
 ## Features
 
-List key features or functionalities of your project.
+List key features or functionalities of project.
 
 - Demand Prediction
 - Sales Prediction
